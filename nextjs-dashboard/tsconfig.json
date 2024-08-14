@@ -30,6 +30,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.ts",
     "scripts/seed.js"
-  ],
+, "app/layout.tsxx", "app/layout.js", "app/page.js", "app/ui/acme-logo.js", "app/ui/fonts.js", "app/ui/invoices/status.js"  ],
   "exclude": ["node_modules"]
 }
